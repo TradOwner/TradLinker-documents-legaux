@@ -34,4 +34,4 @@ Le développeur de TradLinker ne peut être tenu responsable des pertes, interru
 Ces conditions peuvent être modifiées à tout moment. Toute modification sera notifiée sur les serveurs utilisateurs ou les canaux officiels de communication.
 
 **8. Contact**
-Pour toute question ou assistance liée à TradLinker, veuillez rejoindre notre serveur Discord de support : https://discord.gg/hNQMp4ADRa.
+Pour toute question ou assistance liée à TradLinker, veuillez rejoindre notre serveur Discord de support : [https://discord.gg/hNQMp4ADRa](https://discord.gg/c5zvbAWwu8).
