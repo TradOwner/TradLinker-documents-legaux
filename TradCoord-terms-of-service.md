@@ -21,4 +21,4 @@ Modifier, distribuer ou exploiter le bot sans autorisation.
 Nous nous réservons le droit de bloquer l'accès à TradCoord pour tout utilisateur ou serveur ne respectant pas ces conditions.
 
 6. Contact
-Pour toute question, rejoignez le serveur support : [Support TradSphere](https://discord.gg/hNQMp4ADRa)
+Pour toute question, rejoignez le serveur support : [Support TradSphere](https://discord.gg/c5zvbAWwu8)
