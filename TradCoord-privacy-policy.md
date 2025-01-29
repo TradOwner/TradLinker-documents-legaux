@@ -24,4 +24,4 @@ Les administrateurs de serveur peuvent demander la suppression des données asso
 Aucune donnée n’est partagée avec des tiers. TradCoord ne vend ni ne transfère aucune information à d'autres services.
 
 6. Contact
-Pour toute question ou demande concernant la confidentialité, contactez-nous via le serveur support : [Support TradSphere](https://discord.gg/hNQMp4ADRa)
+Pour toute question ou demande concernant la confidentialité, contactez-nous via le serveur support : [Support TradSphere](https://discord.gg/c5zvbAWwu8)
