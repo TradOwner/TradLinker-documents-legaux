@@ -1,24 +1,27 @@
-📜 Conditions d'Utilisation – TradCoord
+🔒 Politique de Confidentialité – TradCoord
 Dernière mise à jour : [29/01/2025]
 
-1. Acceptation des Conditions
-En utilisant TradCoord sur votre serveur Discord, vous acceptez ces conditions d'utilisation. Si vous n'êtes pas d'accord avec l'une de ces conditions, veuillez ne pas utiliser le bot.
+1. Informations Collectées
+TradCoord collecte et stocke uniquement les informations nécessaires à son fonctionnement, notamment :
 
-2. Fonctionnalités et Responsabilités
-TradCoord permet la gestion des rôles, la validation des règles et la coordination linguistique sur votre serveur.
+Les ID des serveurs, canaux, rôles et messages interactifs.
+Les interactions avec les boutons et commandes du bot.
+Aucune donnée personnelle (nom, email, IP) n'est collectée.
 
-Vous êtes responsable de l’utilisation du bot sur votre serveur et des actions qu’il effectue.
-TradCoord ne garantit pas un service ininterrompu et peut être mis à jour ou interrompu à tout moment.
-3. Accès Premium
-Certaines fonctionnalités sont réservées aux serveurs premium. L'activation de ces fonctionnalités nécessite une vérification spécifique.
+2. Utilisation des Données
+Les données collectées sont utilisées exclusivement pour :
 
-4. Comportement Interdit
-Vous ne devez pas :
+Sauvegarder et restaurer les messages interactifs.
+Assurer le bon fonctionnement du bot et des rôles assignés.
+3. Stockage et Sécurité
+Les données sont stockées localement et synchronisées sur un dépôt GitHub privé.
+Seul le propriétaire du bot y a accès.
 
-Utiliser TradCoord pour des activités illégales ou contrevenant aux règles de Discord.
-Modifier, distribuer ou exploiter le bot sans autorisation.
-5. Résiliation
-Nous nous réservons le droit de bloquer l'accès à TradCoord pour tout utilisateur ou serveur ne respectant pas ces conditions.
+4. Suppression des Données
+Les administrateurs de serveur peuvent demander la suppression des données associées à leur serveur en contactant l’équipe via le serveur support.
+
+5. Partage des Données
+Aucune donnée n’est partagée avec des tiers. TradCoord ne vend ni ne transfère aucune information à d'autres services.
 
 6. Contact
-Pour toute question, rejoignez le serveur support : [Support TradSphere](https://discord.gg/hNQMp4ADRa)
+Pour toute question ou demande concernant la confidentialité, contactez-nous via le serveur support : [Support TradSphere](https://discord.gg/hNQMp4ADRa)
