@@ -33,4 +33,4 @@ Vous pouvez à tout moment :
 Cette politique peut être mise à jour périodiquement. Vous serez notifié des changements importants via le serveur ou les canaux de communication configurés.
 
 **7. Contact**
-Pour toute question ou demande relative à la confidentialité, veuillez rejoindre notre serveur Discord de support : [https://discord.gg/hNQMp4ADRa](https://discord.gg/c5zvbAWwu8).
+Pour toute question ou demande relative à la confidentialité, veuillez rejoindre notre serveur Discord de support : [Support TradSphere](https://discord.gg/c5zvbAWwu8).
