@@ -1,5 +1,6 @@
 **📜 Conditions d'Utilisation – TradCoord**
-- Dernière mise à jour : [29/01/2025]
+
+Dernière mise à jour : [29/01/2025]
 
 **1. Acceptation des Conditions**
 - En utilisant TradCoord sur votre serveur Discord, vous acceptez ces conditions d'utilisation. Si vous n'êtes pas d'accord avec l'une de ces conditions, veuillez ne pas utiliser le bot.
