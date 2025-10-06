@@ -3,6 +3,7 @@
 Dernière mise à jour : 06/10/2025
 
 **1. Données traitées**
+
 *a. Données Discord (usage courant)*
 - Identifiants techniques : ID utilisateur/serveur/canal/message, rôles/permissions nécessaires au bon fonctionnement.
 - Contenu des messages (texte) pour réaliser la traduction et renvoyer le résultat. Le Bot segmente et prépare le texte en conservant les éléments non traduisibles (URLs, mentions, code) et peut convertir des mentions textuelles en mentions <@id> lorsqu’autorisé. 
