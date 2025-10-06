@@ -11,7 +11,7 @@
 - Les données collectées sont utilisées exclusivement pour :
   - Sauvegarder et restaurer les messages interactifs.
   - Assurer le bon fonctionnement du bot et des rôles assignés.
-  - 
+
 3. Stockage et Sécurité
 - Les données sont stockées localement et synchronisées sur un dépôt GitHub privé.
 - Seul le propriétaire du bot y a accès.
