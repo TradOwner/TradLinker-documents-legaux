@@ -1,5 +1,6 @@
 **🔒 Politique de confidentialité de TradLinker**
-- Date d'entrée en vigueur : 29/12/2024
+
+Date d'entrée en vigueur : 29/12/2024
 
 TradLinker est conçu pour relayer et traduire vos messages entre les canaux Discord de manière efficace et sécurisée. Nous respectons votre vie privée et nous engageons à protéger vos données personnelles.
 
