@@ -1,5 +1,6 @@
 🔒 Politique de Confidentialité – TradCoord
-- Dernière mise à jour : [29/01/2025]
+
+Dernière mise à jour : [29/01/2025]
 
 1. Informations Collectées
 - TradCoord collecte et stocke uniquement les informations nécessaires à son fonctionnement, notamment :
