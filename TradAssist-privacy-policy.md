@@ -46,7 +46,7 @@ c) Abonnements Platinium (paiements Stripe)
 
 7) Vos droits
 - Conformément au RGPD : droit d’accès, de rectification, d’effacement, d’opposition, à la limitation, à la portabilité, et directives post-mortem. Pour exercer vos droits : tradsphere@gmail.com.
-Vous pouvez également saisir l’autorité de contrôle compétente (CNIL en France).
+- Vous pouvez également saisir l’autorité de contrôle compétente (CNIL en France).
 
 8) Paiements
 - Les paiements sont traités par Stripe. Nous ne stockons pas de données de carte ; nous recevons uniquement des identifiants techniques (client/abonnement) et des webhooks nécessaires à l’activation/suspension de l’accès Platinium. 
