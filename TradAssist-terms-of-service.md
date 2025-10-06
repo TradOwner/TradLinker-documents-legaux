@@ -27,10 +27,10 @@ Dernière mise à jour : 06/10/2025
 **6. Contenus des utilisateurs**
 - L’utilisateur reste seul responsable des contenus qu’il envoie, traduit ou republie (droits, licéité, confidentialité). Le Bot peut supprimer ou ne pas traiter des contenus contraires à la loi, aux CGU ou aux politiques de Discord.
 
-**7. Droits de propriété***
+**7. Droits de propriété**
 - Les marques, logos et éléments du Bot restent la propriété de leurs détenteurs. Les contenus traduits restent la propriété de leurs auteurs respectifs.
 
-**8. Disponibilité – Évolution***
+**8. Disponibilité – Évolution**
 - Le Bot dépend de services tiers (Discord, APIs, Stripe, GitHub). Des interruptions, changements ou suppressions de fonctionnalités peuvent survenir sans préavis raisonnable. L’Éditeur peut modifier les CGU à tout moment ; la date « Dernière mise à jour » fait foi.
 
 **9. Responsabilité**
