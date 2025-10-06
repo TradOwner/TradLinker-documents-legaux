@@ -6,9 +6,9 @@ Dernière mise à jour : 06/10/2025
 - Le Bot permet de traduire du contenu Discord (messages, canaux, réactions drapeaux) et fournit des fonctions associées (ex. « translate and send », tutoriel). Certaines fonctions sont soumises à des limites mensuelles sur serveurs et/ou en messages privés, avec possibilité de lever ces limites via une offre Platinium payante. Les quotas et fonctions illimitées sont définis dans le code. 
 
 **2. Accès – Éligibilité**
-L’utilisation du Bot requiert :
-- Un compte Discord en règle et l’âge minimum requis par Discord (généralement 13 ans, ou plus selon la législation locale).
-- Le respect des règles et politiques Discord applicables aux serveurs et utilisateurs.
+- L’utilisation du Bot requiert :
+  - Un compte Discord en règle et l’âge minimum requis par Discord (généralement 13 ans, ou plus selon la législation locale).
+  - Le respect des règles et politiques Discord applicables aux serveurs et utilisateurs.
 
 **3. Fonctionnement et dépendances**
 - Traductions via les services de différentes API (ex: DeepL, Microsoft, Google). 
