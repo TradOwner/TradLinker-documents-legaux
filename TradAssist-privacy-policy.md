@@ -1,6 +1,7 @@
 🔒 Politique de confidentialité (RGPD) - TradAssist
 - Dernière mise à jour : 06/10/2025
 
+
 1) Données traitées
 a) Données Discord (usage courant)
 - Identifiants techniques : ID utilisateur/serveur/canal/message, rôles/permissions nécessaires au bon fonctionnement.
