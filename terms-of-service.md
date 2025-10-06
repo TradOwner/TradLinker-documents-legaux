@@ -1,5 +1,6 @@
 **📜 Conditions d'utilisation - TradLinker**
-- Date d'entrée en vigueur : 29/12/2024
+
+Date d'entrée en vigueur : 29/12/2024
 
 Merci d’utiliser TradLinker, votre bot de traduction et de relais de messages. En ajoutant TradLinker à votre serveur Discord, vous acceptez les conditions suivantes.
 
