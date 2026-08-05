@@ -1,6 +1,6 @@
 # Conditions d'utilisation de TradCoord
 
-**Version 3.1 - Entrée en vigueur : 5 août 2026**
+**Entrée en vigueur : 5 août 2026**
 
 ## 1. Éditeur
 
