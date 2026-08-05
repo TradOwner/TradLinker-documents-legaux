@@ -53,7 +53,7 @@ Les données proviennent de Discord, des administrateurs et utilisateurs qui int
 
 Elles sont accessibles, uniquement lorsque cela est nécessaire :
 
-- à Lloyd CRINON pour l'exploitation, l'assistance et la sécurité du Service ;
+- à TLK Forge pour l'exploitation, l'assistance et la sécurité du Service ;
 - à Discord, qui héberge les serveurs, comptes, interactions et messages ;
 - au prestataire chargé de l'hébergement et de l'infrastructure technique du bot ;
 - au prestataire chargé des sauvegardes et de la gestion de versions, au moyen d'un espace privé ;
