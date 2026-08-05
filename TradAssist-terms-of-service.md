@@ -108,7 +108,7 @@ Le retrait du bot ou la fin d'un abonnement n'efface pas nécessairement les con
 
 TLK Forge peut modifier les présentes Conditions pour tenir compte d'une évolution du Service, des offres, des règles de Discord ou du droit applicable. La nouvelle version indique sa date d'entrée en vigueur. Toute modification substantielle affectant un abonnement en cours est communiquée sur un support durable dans un délai raisonnable. Si vous la refusez, vous pouvez annuler l'abonnement et cesser d'utiliser le Service.
 
-## 14. Réclamations, médiation et droit applicable
+## 14. Réclamations et droit applicable
 
 Toute réclamation doit d'abord être adressée à [tradsphere@gmail.com](mailto:tradsphere@gmail.com). À défaut de solution amiable, le consommateur peut exercer les voies de recours prévues par la loi.
 
