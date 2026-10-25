@@ -8,7 +8,7 @@ La présente politique explique comment TradCoord traite les données personnell
 
 TradCoord est édité et exploité par :
 
-**Lloyd CRINON, entrepreneur individuel (EI), exerçant sous le nom commercial TLK Forge**  
+**CRINON, entrepreneur individuel (EI), exerçant sous le nom commercial TLK Forge**  
 SIREN : 104 018 775 - RCS Agen  
 Adresse : 47 bis rue Sainte-Catherine, 47520 Le Passage, France  
 Courriel : [tradsphere@gmail.com](mailto:tradsphere@gmail.com)  
